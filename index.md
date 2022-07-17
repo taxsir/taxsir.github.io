@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 王振纲
 
-You can use the [editor on GitHub](https://github.com/taxsir/taxsir.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+很高兴遇见您！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我是谁？
 
-### Markdown
+【姓名】王振纲（刚刚好）
+【籍贯】湖南
+【手机】13928465324
+【邮箱】10572117@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我更给您带来什么？
+【行业】上市财税领域
+【公司】深圳百科集团                 
+【服务】擅长财税尽调；金税四期下税务风险应对；股权设计；税务筹划；财务规范；股权融资；高新认定；资助补贴；上市辅导；并购重组；
 
-```markdown
-Syntax highlighted code block
+【使命】专注上市并购孵化
+【价值】合规有道！节税有方！帮助企业认真做3件事：数钱、省钱、值钱！
+【核心优势】解决方案 = 量身定制化 + 落地 + 监督 + 陪跑 + 教练
 
-# Header 1
-## Header 2
-### Header 3
+### 欢迎加入我的频道
+遇见您，刚刚好。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taxsir/taxsir.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
